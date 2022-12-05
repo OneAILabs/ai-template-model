@@ -1,1 +1,1 @@
-clara_pt_spleen_ct_segmentation底下的/models是下載至[MONAI Model Zoo](https://monai.io/model-zoo.html)
+clara_pt_spleen_ct_segmentation底下的/models是下載自 [MONAI Model Zoo](https://github.com/Project-MONAI/model-zoo/releases/download/hosting_storage_v1/spleen_ct_segmentation_v0.3.1.zip)
