@@ -1,0 +1,1 @@
+clara_pt_spleen_ct_segmentation底下的/models是下載至[MONAI Model Zoo](https://monai.io/model-zoo.html)
